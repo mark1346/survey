@@ -10,6 +10,7 @@
 - H2 DB 2.2.224
 ## 애플리케이션 아키텍쳐
 <img src = "https://github.com/mark1346/survey/assets/54796278/678f2a20-aaf0-45d3-b1f3-55f9ac210241" width="500">
+
 - 계층형 구조 사용
 
 ## 데이터베이스 설계
